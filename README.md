@@ -20,6 +20,10 @@ This is a list of sport analytics conferences, with a primary focus on hockey an
   - Date: March 6-7, 2026
   - Location: Boston, USA
   - Sport: Multiple
+- [OUSAC Conference](https://www.instagram.com/ousacsportsanalytics/)
+  - Date: March 14, 2026
+  - Location: Toronto, Canada
+  - Sport: Multiple
 - [Ohio State Sports Analytics Conference](https://sportsandsociety.osu.edu/events/6th-annual-ohio-state-sports-analytics-conference)
   - Date: March 26-28, 2026
   - Location: Columbus, USA and Virtual
