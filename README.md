@@ -28,6 +28,10 @@ This is a list of sport analytics conferences, with a primary focus on hockey an
   - Date: March 26-28, 2026
   - Location: Columbus, USA and Virtual
   - Sport: Multiple
+- **[Hockey Analytics League Operations Meetings](https://avalanche.spinzo.com/colorado-avalanche-vs-calgary-flames-2026-03-30-PXFMV?group=nhl-halo-2026-7we9)**
+  - Date: March 30, 2026
+  - Location: Denver, USA
+  - Sport: Hockey
 - [New England Symposium on Statistics in Sports](https://www.nessis.org/)
   - Date: ?
   - Location: Boston, USA
@@ -38,11 +42,6 @@ This is a list of sport analytics conferences, with a primary focus on hockey an
   - Location: Vancouver, Canada
   - Sport: Multiple
   - Note: Organized in even-numbered years, alternates with New England Symposium on Statistics in Sports.
-- **[Columbus Blue Jackets Hockey Analytics Conference](https://bluejackets.spinzo.com/cbj-vs-ottawa-senators-2025-04-08-ZAXYQ?group=sports-analytics--v73w)**
-  - Date: ?
-  - Location: Columbus, USA
-  - Sport: Hockey
-  - Note: Organized by the Columbus Blue Jackets in 2025. Hopefully, it will be organized again in 2026.
 
 ## 🔗 Links
 
