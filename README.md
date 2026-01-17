@@ -43,6 +43,12 @@ This is a list of sport analytics conferences, with a primary focus on hockey an
   - Sport: Multiple
   - Note: Organized in even-numbered years, alternates with New England Symposium on Statistics in Sports.
 
+## 💻 Virtual
+
+- [ASA Virtual Sports Analytics Conference ](https://www.linkedin.com/posts/schuckers_fill-mailing-list-for-2026-asa-virtual-activity-7397739144904335361-YNam?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB67iPMBMQw63gIhAQlBdCj4eJJagqC6zgo)
+  - Date: April 24-25, 2026
+  - Sport: Multiple
+
 ## 🔗 Links
 
 - [UWAGGS List of Sport Analytics Conferences](https://www.uwaggs.ca/conferences.html)
