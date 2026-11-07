@@ -38,9 +38,9 @@ This is a list of sport analytics conferences, with a primary focus on hockey an
   - Date: April 1-3, 2027
   - Location: Columbus, USA and Virtual
   - Sport: Multiple
-- **[Hockey Analytics League Operations Meetings](https://avalanche.spinzo.com/colorado-avalanche-vs-calgary-flames-2026-03-30-PXFMV?group=nhl-halo-2026-7we9)**
-  - Date: ?
-  - Location: ?
+- **[Hockey Analytics League Operations Meetings](https://www.haloconference.com/)**
+  - Date: March 16, 2027
+  - Location: Philadelphia, USA
   - Sport: Hockey
 - [New England Symposium on Statistics in Sports](https://www.nessis.org/)
   - Date: ?
